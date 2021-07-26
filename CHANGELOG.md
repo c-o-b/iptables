@@ -1,6 +1,9 @@
 # iptables Cookbook CHANGELOG
 This file is used to list changes made in each version of the iptables cookbook.
 
+## 5.0.1 (2021-07-26)
+- tweak _package for EL8s [@bish0polis](https://github.com/bish0polis)
+
 ## 5.0.0 (2020-01-08)
 
 - Cookstyle fixes - [@tas50](https://github.com/tas50)
